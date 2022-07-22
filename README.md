@@ -1,4 +1,10 @@
 # TestEther
+Tools Required:
+truffle
+genache
+npm
+nodejs
+/********************************************/
 First of all run three script files in different bash terminal by this command ./
 
 1:
